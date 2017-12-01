@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "595365145310",
+    "firebase_url": "https://coffeebreak-774e3.firebaseio.com",
+    "project_id": "coffeebreak-774e3",
+    "storage_bucket": "coffeebreak-774e3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:595365145310:android:85373d3c1547c8ac",
+        "android_client_info": {
+          "package_name": "com.example.dean.coffeebreak"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "595365145310-4uu1rkemfksk65sfckhf193luv77hedt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dean.coffeebreak",
+            "certificate_hash": "f300dea7a685c6725dd4ae6d5c75417fa303d5d7"
+          }
+        },
+        {
+          "client_id": "595365145310-c4rva66go9h2hltejt1rekrjm56nb9un.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAhZcoIg7kcVkelLLXDXWTSeyJ7cR6lTE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "595365145310-c4rva66go9h2hltejt1rekrjm56nb9un.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
