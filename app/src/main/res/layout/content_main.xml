@@ -64,10 +64,4 @@
         android:layout_marginLeft="59dp"
         android:layout_marginRight="59dp" />
 
-    <com.google.android.gms.maps.MapView
-        android:id="@+id/mapView2"
-        android:layout_width="306dp"
-        android:layout_height="148dp"
-        tools:layout_editor_absoluteX="-235dp"
-        tools:layout_editor_absoluteY="383dp" />
 </android.support.constraint.ConstraintLayout>
